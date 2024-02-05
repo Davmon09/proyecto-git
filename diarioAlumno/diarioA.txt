@@ -1,1 +1,5 @@
 Aquí viene tu diario
+
+Estoy aqui aprendiendo Git para darme
+un respiro de los codigos de programacion
+cogiendo impulso para seguir con todo el curso
